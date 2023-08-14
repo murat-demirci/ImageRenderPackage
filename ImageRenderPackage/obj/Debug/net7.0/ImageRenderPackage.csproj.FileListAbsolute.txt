@@ -1,0 +1,12 @@
+C:\Users\demur\Desktop\Package\ImageRenderPackage\bin\Debug\net7.0\ImageRenderPackage.deps.json
+C:\Users\demur\Desktop\Package\ImageRenderPackage\bin\Debug\net7.0\ImageRenderPackage.dll
+C:\Users\demur\Desktop\Package\ImageRenderPackage\bin\Debug\net7.0\ImageRenderPackage.pdb
+C:\Users\demur\Desktop\Package\ImageRenderPackage\obj\Debug\net7.0\ImageRenderPackage.csproj.AssemblyReference.cache
+C:\Users\demur\Desktop\Package\ImageRenderPackage\obj\Debug\net7.0\ImageRenderPackage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demur\Desktop\Package\ImageRenderPackage\obj\Debug\net7.0\ImageRenderPackage.AssemblyInfoInputs.cache
+C:\Users\demur\Desktop\Package\ImageRenderPackage\obj\Debug\net7.0\ImageRenderPackage.AssemblyInfo.cs
+C:\Users\demur\Desktop\Package\ImageRenderPackage\obj\Debug\net7.0\ImageRenderPackage.csproj.CoreCompileInputs.cache
+C:\Users\demur\Desktop\Package\ImageRenderPackage\obj\Debug\net7.0\ImageRenderPackage.dll
+C:\Users\demur\Desktop\Package\ImageRenderPackage\obj\Debug\net7.0\refint\ImageRenderPackage.dll
+C:\Users\demur\Desktop\Package\ImageRenderPackage\obj\Debug\net7.0\ImageRenderPackage.pdb
+C:\Users\demur\Desktop\Package\ImageRenderPackage\obj\Debug\net7.0\ref\ImageRenderPackage.dll

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ImageRenderPackage</id>
+    <version>1.0.1</version>
+    <title>ImageHelper via SkiaSharp</title>
+    <authors>MuratDemirci</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">LICENSE.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <description>Using SkiaSharp can resizing image, chancing format and saving local IFormFile f
+image files.</description>
+    <tags>image, IFormFile, resize, resizing</tags>
+    <repository url="www.github.com/murat-demirci" />
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="Microsoft.AspNetCore.Http.Features" version="5.0.17" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Caching.Abstractions" version="7.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Caching.Memory" version="7.0.0" exclude="Build,Analyzers" />
+        <dependency id="SkiaSharp" version="2.88.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\demur\Desktop\Package\ImageRenderPackage\bin\Debug\net7.0\ImageRenderPackage.dll" target="lib\net7.0\ImageRenderPackage.dll" />
+    <file src="C:\Users\demur\Desktop\Package\ImageRenderPackage\license\LICENSE.txt" target="\license\LICENSE.txt" />
+    <file src="C:\Users\demur\Desktop\Package\ImageRenderPackage\license\LICENSE.txt" target="\LICENSE.txt" />
+  </files>
+</package>
